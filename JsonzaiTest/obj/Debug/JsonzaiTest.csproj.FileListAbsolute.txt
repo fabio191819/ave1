@@ -1,0 +1,15 @@
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\JsonzaiTest\bin\Debug\JsonzaiTest.dll
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\JsonzaiTest\bin\Debug\JsonzaiTest.pdb
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\JsonzaiTest\bin\Debug\Jsonzai.dll
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\JsonzaiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\JsonzaiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\JsonzaiTest\bin\Debug\Jsonzai.pdb
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\JsonzaiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\JsonzaiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\JsonzaiTest\obj\Debug\JsonzaiTest.csprojAssemblyReference.cache
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\JsonzaiTest\obj\Debug\JsonzaiTest.csproj.CopyComplete
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\JsonzaiTest\obj\Debug\JsonzaiTest.dll
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\JsonzaiTest\obj\Debug\JsonzaiTest.pdb
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\JsonzaiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\JsonzaiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\JsonzaiTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

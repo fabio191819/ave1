@@ -1,0 +1,5 @@
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\Jsonzai\bin\Debug\Jsonzai.dll
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\Jsonzai\bin\Debug\Jsonzai.pdb
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\Jsonzai\obj\Debug\Jsonzai.csprojAssemblyReference.cache
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\Jsonzai\obj\Debug\Jsonzai.dll
+C:\Users\fabio\Desktop\ave\Trabalho 1\jsonzai\Jsonzai\obj\Debug\Jsonzai.pdb
